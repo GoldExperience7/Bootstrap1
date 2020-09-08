@@ -1,2 +1,2 @@
-# React-Course
+# Bootstrap Course
 
